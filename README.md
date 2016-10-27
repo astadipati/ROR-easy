@@ -6,3 +6,4 @@
 - L7 Installing database, rspec, capybara Done
 - L8 Installing and Setup Devise for Auth
 - L9 STI Single Table Inheritance
+- L10 Apply rspec validation
