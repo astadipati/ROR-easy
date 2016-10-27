@@ -3,4 +3,4 @@
 
 ## This is my First Ruby On Rails app
 
-- Installing database, rspec, capybara Done
+-L7 Installing database, rspec, capybara Done
